@@ -1,18 +1,133 @@
 {
     "videos": {
         "tutorials": {
-            "episode1": {
-                "title": "Change This",
-                "description": "Change This",
-                "url": "https://Change-This-Make-sure-there-is-a-http-or-https.com",
-                "tags": ["Change", "all", "of", "these"]
+            "BootCampEp1": {
+                "title": "CSGO Level Design Boot Camp - Day 1",
+                "description": "Installing and Understanding the SDK Tools",
+                "url": "https://www.youtube.com/watch?v=pMGnPu8NdK0",
+                "tags": ["bc1", "Installing", "Understanding"]
             },
-            "episode2": {
-                "title": "Change This",
-                "description": "Change This",
-                "url": "https://Change-This-Make-sure-there-is-a-http-or-https.com",
-                "tags": ["Change", "all", "of", "these"]
+            "BootCampEp2": {
+                "title": "CSGO Level Design Boot Camp - Day 2",
+                "description": "Creating Our First Room ",
+                "url": "https://www.youtube.com/watch?v=eCVH1AG3qTk",
+                "tags": ["bc2", "room", "first", "skybox"]
+            },
+            "BootCampEp3": {
+                "title": "CSGO Level Design Boot Camp - Day 3",
+                "description": "Shaping Brushes ",
+                "url": "https://www.youtube.com/watch?v=f-N9YchCdGE",
+                "tags": ["bc3", "brushes", "clipping", "vertex"]
+            },
+            "BootCampEp4": {
+                "title": "CSGO Level Design Boot Camp - Day 4",
+                "description": "Intro to CS Level Design",
+                "url": "https://www.youtube.com/watch?v=vUwcX5Hbdng",
+                "tags": ["bc4", "level", "design", "theory"]
+            },
+            "BootCampEp5": {
+                "title": "CSGO Level Design Boot Camp - Day 5",
+                "description": "Building, Testing, and Fixing Dev Level",
+                "url": "https://www.youtube.com/watch?v=5em3o0FFhR0",
+                "tags": ["bc5", "buildings", "testing", "fixing", "graybox", "dev"]
+            },
+            "BootCampEp6": {
+                "title": "CSGO Level Design Boot Camp - Day 6",
+                "description": "Introduction to Props",
+                "url": "https://www.youtube.com/watch?v=QNEFo44GOQ0",
+                "tags": ["bc6", "props", "prop", "prop_static", "prop_dynamic", "prop_physics", "static", "dynamic"]
+            },
+            "BootCampEp7": {
+                "title": "CSGO Level Design Boot Camp - Day 7",
+                "description": "Introduction to Optimization",
+                "url": "https://www.youtube.com/watch?v=fNl9bimopU8",
+                "tags": ["bc7", "optimization", "func_detail", "detail", "vvis", "visleaf", "numportal", "leak", "vac", "wallhacks"]
+            },
+            "BootCampEp8": {
+                "title": "CSGO Level Design Boot Camp - Day 8",
+                "description": "Game Modes and Radars",
+                "url": "https://www.youtube.com/watch?v=GnY8hTmzpz8",
+                "tags": ["bc8", "radar", "dds", "de", "cs", "defuse", "hostage", "overview"]
+            },
+            "BootCampEp9": {
+                "title": "CSGO Level Design Boot Camp - Day 9",
+                "description": "Texturing Your Level",
+                "url": "https://www.youtube.com/watch?v=d0vo4W8B4KQ",
+                "tags": ["bc9", "textre", "texturing", "face edit sheet"]
+            },
+            "BootCampEp10": {
+                "title": "CSGO Level Design Boot Camp - Day 10",
+                "description": "Displacements",
+                "url": "https://www.youtube.com/watch?v=bkNf_lF4RDc",
+                "tags": ["bc10", "displacement", "sew", "paint"]
+            },
+            "BootCampEp11": {
+                "title": "CSGO Level Design Boot Camp - Day 11",
+                "description": "Lighting Part 1, Basic Lighting",
+                "url": "https://www.youtube.com/watch?v=LMi-WZefRTc",
+                "tags": ["bc11", "light_environment", "ambient", "env_sun", "light", "light_spot", "func_instance"]
+            },
+            "BootCampEp12": {
+                "title": "CSGO Level Design Boot Camp - Day 12",
+                "description": "Lighting Part 2, Sprites, Effects, Lightmap Grid",
+                "url": "https://www.youtube.com/watch?v=OLcv4fll-UA",
+                "tags": ["bc12", "env_sprite", "rendermode", "point_spotlight", "func_dustmotes", "lightmap", "grid", "shadow"]
+            },
+            "BootCampEp13": {
+                "title": "CSGO Level Design Boot Camp - Day 13",
+                "description": "Lighting Part 3, Advanced Lighting / HDR",
+                "url": "https://www.youtube.com/watch?v=XEWmdRfG0xU",
+                "tags": ["bc13", "env_projectedtexture", "lights.rad", "smoothing", "fall off", "linear", "constant", "quadratic", "env_tonemap_controller", "tonemap", "logic_auto", "hdr", "exposure", "bloom"]
+            },
+            "BootCampEp14": {
+                "title": "CSGO Level Design Boot Camp - Day 14",
+                "description": "Doors, Ladders, and Chickens",
+                "url": "https://www.youtube.com/watch?v=KkC21K_ZnbI",
+                "tags": ["bc14", "The Only Thing That Matters", "kfc", "chickens", "chicken","ladders", "door", "doors", "func_door", "func_door_rotating", "prop_door_rotating", "squeaky", "func_button", "info_map_parameters"]
+            },
+            "BootCampEp15": {
+                "title": "CSGO Level Design Boot Camp - Day 15",
+                "description": "3D Skybox, and Fog",
+                "url": "https://www.youtube.com/watch?v=SGHZI7tR-as",
+                "tags": ["bc15", "fog", "skybox", "3d", "env_fog_controller", "sky_camera", "fogui", "fog_volume"]
+            },
+            "BootCampEp16": {
+                "title": "CSGO Level Design Boot Camp - Day 16",
+                "description": "Custom Textures, Cubemaps, and Reflections ",
+                "url": "https://www.youtube.com/watch?v=sKzLdK_XP_E",
+                "tags": ["bc16", "cubemap", "cubemaps", "buildcubemaps", "env_cubemap", "reflections", "envmap", "textures", "vtf", "vmt", "vtfedit", "custom"]
+            },
+            "BootCampEp17": {
+                "title": "CSGO Level Design Boot Camp - Day 17",
+                "description": "Decals and info_Overlay",
+                "url": "https://www.youtube.com/watch?v=Snk-x8TMY4w",
+                "tags": ["bc17", "decals", "de_kale", "info_overlay", "info_decal", "graffiti", "dirt"]
+            },
+            "BootCampEp18": {
+                "title": "CSGO Level Design Boot Camp - Day 18",
+                "description": "Sounds",
+                "url": "https://www.youtube.com/watch?v=2d1QklRNWmY",
+                "tags": ["bc18", "sound", "sounds", "ambient_generic", "env_soundscape", "soundscape", "trigger_soundscape"]
+            },
+            "BootCampEp19": {
+                "title": "CSGO Level Design Boot Camp - Day 19",
+                "description": "Optimization Part 1",
+                "url": "https://www.youtube.com/watch?v=wuXGASWGuRw",
+                "tags": ["bc19", "Optimization", "kms", "hint", "skip", "render", "fade distance"]
+            },
+            "BootCampEp20": {
+                "title": "CSGO Level Design Boot Camp - Day 20",
+                "description": "Optimization Part 2",
+                "url": "https://www.youtube.com/watch?v=SZ26CcZQtqI",
+                "tags": ["bc20", "Optimization""hint", "skip", "render", "areaportal", "func_areaportal", "func_areaportal_window"]
+            },
+            "BootCampEp21": {
+                "title": "CSGO Level Design Boot Camp - Day 21",
+                "description": "Finalizing and Publishing",
+                "url": "https://www.youtube.com/watch?v=DzMG8OeegmQ",
+                "tags": ["bc21", "shipping", "Publishing", "publish", "workshop_publish", "finalize", "testing", "submit", "vide", "packing", "screenshot"]
             }
+
         }
     }
 }
