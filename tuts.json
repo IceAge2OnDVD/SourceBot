@@ -119,7 +119,7 @@
                 "title": "CSGO Level Design Boot Camp - Day 20",
                 "description": "Optimization Part 2",
                 "url": "https://www.youtube.com/watch?v=SZ26CcZQtqI",
-                "tags": ["bc20", "Optimization""hint", "skip", "render", "areaportal", "func_areaportal", "func_areaportal_window"]
+                "tags": ["bc20", "Optimization","hint", "skip", "render", "areaportal", "func_areaportal", "func_areaportal_window"]
             },
             "BootCampEp21": {
                 "title": "CSGO Level Design Boot Camp - Day 21",
@@ -127,7 +127,6 @@
                 "url": "https://www.youtube.com/watch?v=DzMG8OeegmQ",
                 "tags": ["bc21", "shipping", "Publishing", "publish", "workshop_publish", "finalize", "testing", "submit", "vide", "packing", "screenshot"]
             }
-
         }
     }
 }
