@@ -1,5 +1,696 @@
 {
-  "videos": {
-    "tutorials": {
+    "videos": {
+        "tutorials": {
+            "Legacy1": {
+            "title": "Hammer Editor(map editor for source engine games) Tutorial #1 simple things (Remake)",
+            "description": "This tutorial is outdated, please search: v2 1",
+            "url": "https://www.youtube.com/watch?v=igHKu0-A2aQ",
+            "tags": ["legacy1"]
+        },
+        "Legacy2": {
+            "title": "Hammer editor(map editor for source engine games) tutorial #2 prop basics",
+            "description": "This tutorial is outdated, please search: v2 5, or bc6",
+            "url": "https://www.youtube.com/watch?v=qsSyZZPaOEQ",
+            "tags": ["legacy2", "baby tophatt"]
+        },
+        "Legacy3.1": {
+            "title": "Hammer editor tutorial #3 Part1 Lighting (remake)",
+            "description": "This tutorial is outdated, please search: v2 8, or bc11",
+            "url": "https://www.youtube.com/watch?v=6-jkuemhP3o",
+            "tags": ["legacy3"]
+        },
+        "Legacy3.2": {
+            "title": "Hammer editor tutorial #3 Part2 Lighting Effects (remake)",
+            "description": "This tutorial is outdated, please search: v2 8, or bc11",
+            "url": "https://www.youtube.com/watch?v=723b1lLd9EY",
+            "tags4": ["legacy3"]
+        },
+        "Legacy4": {
+            "title": "Hammer editor tutorial #4 De_Cs_ buyzone and doors!",
+            "description": "This tutorial is outdated, please search: v2 25, or bc8",
+            "url": "https://www.youtube.com/watch?v=lDDjWFcNWoU",
+            "tags": ["legacy4"]
+        },
+        "Legacy5": {
+            "title": "Hammer Editor Tutorial 5 Water, Displacements, and glass Oh My!",
+            "description": "This tutorial is outdated, please search: v2 9",
+            "url": "https://www.youtube.com/watch?v=_i_9qDo2ApE",
+            "tags": ["legacy5"]
+        },
+        "Legacy6": {
+            "title": "Hammer Tutorial #6 elevator!",
+            "description": "Learn how to make quite possible the worst elevator from a small child",
+            "url": "https://www.youtube.com/watch?v=byqDYs6wwZo",
+            "tags": ["legacy6", "elevator"]
+        },
+        "Legacy7": {
+            "title": "Hammer Editor Tutorial 7 Deathrun and I/O making",
+            "description": "Some basic Input Output information",
+            "url": "https://www.youtube.com/watch?v=vPo8RhK_TA4",
+            "tags": ["legacy7", "deathrun"]
+        },
+        "Legacy8": {
+            "title": "Hammer tutorial #8 Laser Trails and parented items",
+            "description": "Sprite trails, for parents please search: v2 12",
+            "url": "https://www.youtube.com/watch?v=9l-EsmEHIP",
+            "tags": ["legacy8", "env_spritetrail"]
+        },
+        "Legacy9": {
+            "title": "Hammer tutorial #9 Custom textures, and Normal maps (Remake) ",
+            "description": "This tutorial is outdated, please search: v2 13",
+            "url": "https://www.youtube.com/watch?v=gfPqzsj5GvQ",
+            "tags": ["legacy9"]
+        },
+        "Legacy10": {
+            "title": "Hammer Tutorial #10 Pakrat and VMEX (Remake)",
+            "description": "This tutorial is outdated, please search: v2 13",
+            "url": "https://www.youtube.com/watch?v=w3wJTcJbtuU",
+            "tags": ["legacy10"]
+        },
+        "Legacy11.1": {
+            "title": "Hammer tutorial #11 Part1 Waffle Turret, and cutting to a Angle",
+            "description": "This tutorial is so bad",
+            "url": "https://www.youtube.com/watch?v=S39dKd8zKOE",
+            "tags": ["legacy11", "terrible", "waffle turret"]
+        },
+        "Legacy11.2": {
+            "title": "Hammer tutorial #11 Part2 Waffle Turret, and cutting to a Angle",
+            "description": "Please don't click any of these",
+            "url": "https://www.youtube.com/watch?v=VMCfk-KwkdI",
+            "tags": ["legacy11", "terrible", "waffle turret"]
+        },
+        "Legacy11.3": {
+            "title": "Hammer tutorial #11 Part3 Waffle Turret, and cutting to a Angle",
+            "description": "I'm not joking",
+            "url": "https://www.youtube.com/watch?v=CGv2HOtoICo",
+            "tags": ["legacy11", "terrible", "waffle turret"]
+        },
+        "Legacy12": {
+            "title": "Hammer tutorial #12 Spawing Props and other things",
+            "description": "Spawning props and other stupid stuff.",
+            "url": "https://www.youtube.com/watch?v=7shEjwfstGE",
+            "tags": ["legacy12", "point_template", "func_physbox"]
+        },
+        "Legacy13": {
+            "title": "Hammer tutorial #13 200 subscribers Special: Keypads",
+            "description": "Basic keypad locks",
+            "url": "https://www.youtube.com/watch?v=nWU1-p5ygTM",
+            "tags": ["legacy13", "lock", "keypad"]
+        },
+        "Legacy14": {
+            "title": "Hammer tutorial #14 Advanced Textures, Transparent Textures",
+            "description": "This tutorial is outdated, please search: v2 13",
+            "url": "https://www.youtube.com/watch?v=oNBcVQ9WB0M",
+            "tags": ["legacy14"]
+        },
+        "Legacy15": {
+            "title": "Hammer Tutorial #15 Custom Content",
+            "description": "This tutorial is outdated, please search: vide",
+            "url": "https://www.youtube.com/watch?v=ZYSbap5xYms",
+            "tags": ["legacy15"]
+        },
+        "Legacy16": {
+            "title": "Hammer Tutorial #16 Teleport, Hurt, Heal, and Stripping! (Weapons)",
+            "description": "Heal people, hurt people, and take all your clothes off",
+            "url": "https://www.youtube.com/watch?v=A9kHFT7hCCg",
+            "tags": ["legacy16", "trigger_teleport", "trigger_hurt", "player_weaponstrip"]
+        },
+        "Legacy17": {
+            "title": "Hammer Tutorial #17 Making a AFK killer and firing commands to a server",
+            "description": "Making a custom gamemode that AFKs can mess up?",
+            "url": "https://www.youtube.com/watch?v=SWunUMw-hBw",
+            "tags": ["legacy17", "afk", "killer", "point_servercommand"]
+        },
+        "Legacy18.1": {
+            "title": "Hammer Tutorial 18 Part 1 Making Cell shading brush work",
+            "description": "Like how borderlands looks?",
+            "url": "https://www.youtube.com/watch?v=tYmAoKJItQ4",
+            "tags": ["legacy18", "cell", "cell shading"]
+        },
+        "Legacy18.2": {
+            "title": "Hammer Tutorial 18 Part 2 Making Cell shading brush work ",
+            "description": "Check these out!",
+            "url": "https://www.youtube.com/watch?v=uDRL514UX0g",
+            "tags": ["legacy18", "cell", "cell shading"]
+        },
+        "Legacy19": {
+            "title": "Hammer Tutorial #19 Math_counter, Func_breakable, and logic_case. all good things to know! ",
+            "description": "A collection of random stuff",
+            "url": "https://www.youtube.com/watch?v=eYBLxVadciU",
+            "tags": ["legacy19", "math_counter", "func_breakable", "logic_case"]
+        },
+        "Legacy20": {
+            "title": "Hammer Tutorial #20 Demo Smoothing",
+            "description": "Smooth some demos for super nice camera movement",
+            "url": "https://www.youtube.com/watch?v=37OWSiZu4I8",
+            "tags": ["legacy20", "demo", "smoothing"]
+        },
+        "Legacy22.1": {
+            "title": "Hammer Tutorial #21 optimization Part 1- Func _detail and Skybox",
+            "description": "This tutorial is outdated, please search: v2 6, and v2 21",
+            "url": "https://www.youtube.com/watch?v=O44wZitRJwo",
+            "tags": ["legacy22"]
+        },
+        "Legacy21.2": {
+            "title": "Hammer Tutorial #21 optimization Part 2- Solving Leaks, Fish bowl theory",
+            "description": "This tutorial is outdated, please search: v2 6, and v2 21",
+            "url": "https://www.youtube.com/watch?v=UdC_8ROx6yQ",
+            "tags": ["legacy22"]
+        },
+        "Legacy22.3": {
+            "title": "Hammer Tutorial #21 optimization Part 3- Hint and Skip",
+            "description": "This tutorial is outdated, please search: v2 6, and v2 21",
+            "url": "https://www.youtube.com/watch?v=31hZH-RCwGM",
+            "tags": ["legacy22"]
+        },
+        "Legacy22.4": {
+            "title": "Hammer Tutorial #21 optimization Part 4- Area Portals",
+            "description": "This tutorial is outdated, please search: v2 6, and v2 21",
+            "url": "https://www.youtube.com/watch?v=uOOJkk8-OUw",
+            "tags": ["legacy22"]
+        },
+        "Legacy22.5": {
+            "title": "Hammer Tutorial #21 optimization Part 5- Occluders",
+            "description": "This tutorial is outdated, please search: v2 6, and v2 21",
+            "url": "https://www.youtube.com/watch?v=xhJPAeKB7-0",
+            "tags": ["legacy22"]
+        },
+        "Legacy23": {
+            "title": "Hammer Tutorial #23 Stairs, Arches, and more!",
+            "description": "This tutorial is outdated, please search: v2 7",
+            "url": "https://www.youtube.com/watch?v=dcP7GEdc_7k",
+            "tags": ["legacy23"]
+        },
+        "Legacy24": {
+            "title": "Hammer Tutorial #24 Propper",
+            "description": "Bruh, go learn 3dsmax and WallWorm Model Tools",
+            "url": "https://www.youtube.com/watch?v=nyE4BY5ySUg",
+            "tags": ["legacy24", "cancer"]
+        },
+        "Legacy25": {
+            "title": "Hammer Tutorial #25 _RT_CAMERA (no more black screen!)",
+            "description": "Real time cameras!",
+            "url": "https://www.youtube.com/watch?v=wXeNZe5TnrI",
+            "tags": ["legacy25", "rt", "camera", "point_camera"]
+        },
+        "Legacy26": {
+            "title": "Hammer Tutorial #26 Refracting Images (Advanced Textures)",
+            "description": "Refracting texture creation",
+            "url": "https://www.youtube.com/watch?v=sEpl5hqUXFg",
+            "tags": ["legacy26", "refract"]
+        },
+        "Legacy27": {
+            "title": "Hammer Tutorial #27 Importing Custom sounds",
+            "description": "This tutorial is outdated, please search: v2 22",
+            "url": "https://www.youtube.com/watch?v=c6akpZrqxqk",
+            "tags": ["legacy27"]
+        },
+        "Legacy28.1": {
+            "title": "Hammer Tutorial #28 part 1 What happens during a compile? And how to speed it up",
+            "description": "This isn't even relevant anymore.",
+            "url": "https://www.youtube.com/watch?v=8UtbZ6tguw0",
+            "tags": ["legacy28"]
+        },
+        "Legacy28.2": {
+            "title": "Hammer Tutorial #28 part 2 What happens during a compile? And how to speed it up",
+            "description": "This isn't even relevant anymore.",
+            "url": "https://www.youtube.com/watch?v=LNq1r_bdfAQ",
+            "tags": ["legacy28"]
+        },
+        "Legacy28.3": {
+            "title": "Hammer Tutorial #28 part 3 Setting up and Compiling With VMPI",
+            "description": "This isn't even relevant anymore.",
+            "url": "https://www.youtube.com/watch?v=aIWKCnzOmwc",
+            "tags": ["legacy28"]
+        },
+        "Legacy28.4": {
+            "title": "Hammer Tutorial #28 part 4 Setting up and Compiling With VMPI",
+            "description": "This isn't even relevant anymore.",
+            "url": "https://www.youtube.com/watch?v=mPPA4pRKX_c",
+            "tags": ["legacy28"]
+        },
+        "Legacy29": {
+            "title": "Hammer Tutorial #29 500th subscriber special Random falling ragdolls...",
+            "description": "Some ragdolls",
+            "url": "https://www.youtube.com/watch?v=abjy0dte3DY",
+            "tags": ["legacy29", "prop_ragdoll"]
+        },
+        "Legacy30.1": {
+            "title": "Hammer Tutorial #30 Part 1 3D Skybox",
+            "description": "This tutorial is outdated, please search: v2 15",
+            "url": "https://www.youtube.com/watch?v=Pf1Uf_17hRw",
+            "tags": ["legacy30"]
+        },
+        "Legacy30.2": {
+            "title": "Hammer Tutorial #30 Part 2 3D Skybox",
+            "description": "This tutorial is outdated, please search: v2 15",
+            "url": "https://www.youtube.com/watch?v=AvHX1AP38eY",
+            "tags": ["legacy30"]
+        },
+        "Legacy31": {
+            "title": "Hammer Tutorial #31 Custom Game Menu",
+            "description": "This does not work in CSGO...",
+            "url": "https://www.youtube.com/watch?v=7rm8DzmluR0",
+            "tags": ["legacy31"]
+        },
+        "Legacy32": {
+            "title": "Hammer Tutorial #32 Basic Filters",
+            "description": "Basic filters to filter out people and damage",
+            "url": "https://www.youtube.com/watch?v=RSNS6F7ClVY",
+            "tags": ["legacy32", "filter", "filter_damage_type", "filter_activator_team"]
+        },
+        "Legacy33": {
+            "title": "Hammer Tutorial #33 Inputs and Outputs",
+            "description": "Learn how to use the input and output system",
+            "url": "https://www.youtube.com/watch?v=rEz5sSOK4Ak",
+            "tags": ["legacy33", "input", "output", "io"]
+        },
+        "Legacy34": {
+            "title": "Hammer Tutorial #34 Holes in the Walls!!!",
+            "description": "Holes in your walls",
+            "url": "https://www.youtube.com/watch?v=sfe4fj2eq68",
+            "tags": ["legacy34", "hole"]
+        },
+        "Legacy35": {
+            "title": "Hammer Tutorial #35 Adding Counter-strike source to hammer",
+            "description": "Load hammer.exe from bin folder. I just saved you 3 minutes",
+            "url": "https://www.youtube.com/watch?v=KM54ZjNXN84",
+            "tags": ["legacy35"]
+        },
+        "Legacy36": {
+            "title": "Hammer Tutorial #36 Timer",
+            "description": "Learn how to build a countdown timer with a display",
+            "url": "https://www.youtube.com/watch?v=a4FAWUYygC8",
+            "tags": ["legacy36", "logic_timer", "timer"]
+        },
+        "Legacy37": {
+            "title": "Hammer Tutorial #37 Orange Box Hammer (Whats New)",
+            "description": "Not relevant anymore",
+            "url": "https://www.youtube.com/watch?v=LCrg8j_gUNg",
+            "tags": ["legacy37"]
+        },
+        "Legacy38": {
+            "title": "Hammer Tutorial #38 Changing the Graphics in Hammer!",
+            "description": "Not relevant anymore",
+            "url": "https://www.youtube.com/watch?v=RBE_9_nVaCk",
+            "tags": ["legacy38"]
+        },
+        "Legacy39": {
+            "title": "Hammer Tutorial #39 VisGrouping",
+            "description": "Basic use of VisGroups",
+            "url": "https://www.youtube.com/watch?v=qLSFCJgTnjU",
+            "tags": ["legacy39", "visgroups"]
+        },
+        "Legacy40.1": {
+            "title": "Hammer Tutorial #40 Part 1 Displacements",
+            "description": "This tutorial is outdated, please search: v2 9, or bc10",
+            "url": "https://www.youtube.com/watch?v=tWxGn4vDz14",
+            "tags": ["legacy40"]
+        },
+        "Legacy40.2": {
+            "title": "Hammer Tutorial #40 Part 2 Displacements",
+            "description": "This tutorial is outdated, please search: v2 9, or bc10",
+            "url": "https://www.youtube.com/watch?v=XOCeZxL3CXs",
+            "tags": ["legacy40"]
+        },
+        "Legacy40.3": {
+            "title": "Hammer Tutorial #40 Part 3 Displacements",
+            "description": "This tutorial is outdated, please search: v2 9, or bc10",
+            "url": "https://www.youtube.com/watch?v=5QYT9gUkukM",
+            "tags": ["legacy40"]
+        },
+        "Legacy41": {
+            "title": "Hammer Tutorial #41 Custom Radar",
+            "description": "This tutorial is outdated, please search: v2 25, or bc8",
+            "url": "https://www.youtube.com/watch?v=C19M20PYimE",
+            "tags": ["legacy41"]
+        },
+        "Legacy42": {
+            "title": "Hammer Tutorial #42 Glowing Textures, Lights.rad",
+            "description": "This tutorial is outdated, please search: v2 8, or bc11",
+            "url": "https://www.youtube.com/watch?v=x_koza7Ut_I",
+            "tags": ["legacy42"]
+        },
+        "Legacy43": {
+            "title": "Hammer Tutorial #43 Dynamic Water",
+            "description": "This is a custom particle, nothing fancy.",
+            "url": "https://www.youtube.com/watch?v=R7y0ImnnELM",
+            "tags": ["legacy43"]
+        },
+        "Legacy44": {
+            "title": "Hammer Tutorial #44 Making Your Own Custom Map Background" ,
+            "description": "Custom background for CSS. Not relevant anymore",
+            "url": "https://www.youtube.com/watch?v=QvGKL_bcw3A",
+            "tags": ["legacy44", "background"]
+        },
+        "Legacy45": {
+            "title": "Hammer Tutorial #45 Adding water, The correct way" ,
+            "description": "This tutorial is outdated, please search: v2 10",
+            "url": "https://www.youtube.com/watch?v=mcDKKbCw56k",
+            "tags": ["legacy45"]
+        },
+        "Legacy46": {
+            "title": "Hammer Tutorial #46 Weather Effects" ,
+            "description": "Some weather effects, does not work in CSGO",
+            "url": "https://www.youtube.com/watch?v=B3nFPzQejBk",
+            "tags": ["legacy46", "weather"]
+        },
+        "Legacy47": {
+            "title": "Hammer Tutorial #47 Sprites on world spawn, Detail.VBSP",
+            "description": "Those little grass things on the ground!",
+            "url": "https://www.youtube.com/watch?v=mkZuSVgQFFo",
+            "tags": ["legacy47", "detail sprites", "worldspawn"]
+        },
+        "Legacy48": {
+            "title": "Hammer Tutorial #48 Modifying speed, and gravity",
+            "description": "Make players speedy and floaty!",
+            "url": "https://www.youtube.com/watch?v=oJ28n5b-OA0",
+            "tags": ["legacy48", "trigger_gravity", "player_speedmod"]
+        },
+        "Legacy49": {
+            "title": "Hammer Tutorial #49 Portal Stairs",
+            "description": "Portal 1-esk stairs",
+            "url": "https://www.youtube.com/watch?v=sM0o-3eTQNo",
+            "tags": ["legacy49", "stairs", "func_door"]
+        },
+        "Legacy50": {
+            "title": "Hammer Tutorial #50 :D Perfectly lining up 3D skyboxes!",
+            "description": "This tutorial is outdated, please search: v2 15",
+            "url": "https://www.youtube.com/watch?v=lxVo-_Vy5sA",
+            "tags": ["legacy50"]
+        },
+        "Legacy51": {
+            "title": "Hammer Tutorial #51 Cable, and ropes",
+            "description": "Ropes and cables!!!",
+            "url": "https://www.youtube.com/watch?v=hQ5aMdB7diY",
+            "tags": ["legacy51", "move_rope", "keyframe_rope", "rope"]
+        },
+        "Legacy52": {
+            "title": "Hammer Tutorial #52 Street Light, 1000th Sub",
+            "description": "A decent looking street light",
+            "url": "https://www.youtube.com/watch?v=k_ZD7DYnNiI",
+            "tags": ["legacy52", "street"]
+        },
+        "Legacy53": {
+            "title": "Hammer Tutorial #53 CubeMaps",
+            "description": "This tutorial is outdated, please search: v2 14, or bc16",
+            "url": "https://www.youtube.com/watch?v=IoL_wzaThKE",
+            "tags": ["legacy53"]
+        },
+        "Legacy54": {
+            "title": "Hammer Tutorial #54 Advanced Props",
+            "description": "This tutorial is outdated, please search: v2 5, or bc6",
+            "url": "https://www.youtube.com/watch?v=hSJ2MIVMvkw",
+            "tags": ["legacy54"]
+        },
+        "Legacy55": {
+            "title": "Hammer Tutorial #55 HDR lighting",
+            "description": "This tutorial is outdated, please search: v2 8, or bc13",
+            "url": "https://www.youtube.com/watch?v=-teUP-i3R7k",
+            "tags": ["legacy55"]
+        },
+        "Legacy56": {
+            "title": "Hammer Tutorial #56 Soundscapes",
+            "description": "This tutorial is outdated, please search: v2 22, or bc18",
+            "url": "https://www.youtube.com/watch?v=IyX9XoIVHkg",
+            "tags": ["legacy56"]
+        },
+        "Legacy57": {
+            "title": "Hammer Tutorial #57 Multi-Toggle button",
+            "description": "Multi toggle buttons",
+            "url": "https://www.youtube.com/watch?v=5GoKNbf2Zvw",
+            "tags": ["legacy57", "toggle", "logic_relay", "func_button"]
+        },
+        "Legacy58": {
+            "title": "Hammer Tutorial #58 Game_UI",
+            "description": "Game_ui controls",
+            "url": "https://www.youtube.com/watch?v=IIooDYEfkyA",
+            "tags": ["legacy58", "game_ui"]
+        },
+        "Legacy59": {
+            "title": "Hammer Tutorial #59 Path_track, and func_tanktrain",
+            "description": "Making things move on paths!",
+            "url": "https://www.youtube.com/watch?v=wvpwQRlKuHE",
+            "tags": ["legacy59", "path_track", "func_tracktrain", "func_tanktrain"]
+        },
+        "Legacy60": {
+            "title": "Hammer Tutorial #60 Console chat, Console Commands",
+            "description": "Make the server talk. Sp00ky.",
+            "url": "https://www.youtube.com/watch?v=t7cIzIhvfik",
+            "tags": ["legacy60", "point_servercommand"]
+        },
+        "Legacy61": {
+            "title": "Hammer Tutorial #61 Demo Smoothing in CSS 2009 (Fixing the Smooth bug)",
+            "description": "Fixed demo smoothing, still applies today. Thanks volvo",
+            "url": "https://www.youtube.com/watch?v=I1_KlO7CPzo",
+            "tags": ["legacy61", "demo", "smoothing"]
+        },
+        "Legacy62": {
+            "title": "Hammer Tutorial #62 JailBreak bare-min",
+            "description": "Making a jailbreak map? Here is what you'll need",
+            "url": "https://www.youtube.com/watch?v=UKNZybqngro",
+            "tags": ["legacy62", "jailbreak", "children", "kids"]
+        },
+        "Legacy63": {
+            "title": "Hammer Tutorial #63 Ending a Level, Adding score",
+            "description": "Ending that map for a custom game mode? Add score to a player too",
+            "url": "https://www.youtube.com/watch?v=pCBZUNMk7s4",
+            "tags": ["legacy63", "game_end", "game_score"]
+        },
+        "Legacy64": {
+            "title": "Hammer Tutorial #64 Trigger_look",
+            "description": "Hey! Look over here!",
+            "url": "https://www.youtube.com/watch?v=uBsi-MEAP-Q",
+            "tags": ["legacy64", "trigger_look"]
+        },
+        "Legacy65": {
+            "title": "Hammer Tutorial #65 Magnets, Glock Totin' WCC!!!",
+            "description": "Why is this a thing?",
+            "url": "https://www.youtube.com/watch?v=_OhDgecMPXg",
+            "tags": ["legacy65", "phys_magnet"]
+        },
+        "Legacy66": {
+            "title": "Hammer Tutorial #66 Color Correction",
+            "description": "This tutorial is outdated, please search: v2 17",
+            "url": "https://www.youtube.com/watch?v=KnPhtS6W6pg",
+            "tags": ["legacy66"]
+        },
+        "Legacy67": {
+            "title": "Hammer Tutorial #67 Making Roads, the correct way!",
+            "description": "Make some basic brush roads",
+            "url": "https://www.youtube.com/watch?v=dmqKTJmyEKI",
+            "tags": ["legacy67", "road"]
+        },
+        "Legacy68": {
+            "title": "Hammer Tutorial #68 Func_Viscluster",
+            "description": "Speed up VVIS at the risk of destroying your FPS",
+            "url": "https://www.youtube.com/watch?v=Ds5E7HBQ-nU",
+            "tags": ["legacy68", "func_viscluster"]
+        },
+        "Legacy69": {
+            "title": "Hammer Tutorial #69 Keycard system!",
+            "description": "Doom style keycards",
+            "url": "https://www.youtube.com/watch?v=rbFLnu_wVDA",
+            "tags": ["legacy69", "keycard", "!activator", "filter_activator_name", "env_hudhint"]
+        },
+        "Legacy70": {
+            "title": "Hammer Tutorial #70 Change in next round (CSS)",
+            "description": "What something to be differnt round from round?",
+            "url": "https://www.youtube.com/watch?v=HjQUUPkfqDA",
+            "tags": ["legacy70", "logic_auto", "env_global"]
+        },
+        "Legacy71": {
+            "title": "Hammer Tutorial #71 Metal Stair Case",
+            "description": "Making a brush staircase",
+            "url": "https://www.youtube.com/watch?v=C2g8-clMHx0",
+            "tags": ["legacy71", "stair"]
+        },
+        "Legacy72": {
+            "title": "Hammer Tutorial #72 Displacement Cave",
+            "description": "This tutorial is outdated, please search: v2 9, or bc10",
+            "url": "https://www.youtube.com/watch?v=tBUGLplhz1Y",
+            "tags": ["legacy72", "not to be racist", "white ones"]
+        },
+        "Legacy73": {
+            "title": "Hammer Tutorial #73 Info_Particle_Systems",
+            "description": "Particles everywhere! For newer games extract the PCF files with GCFscape and hit browse in Hammer",
+            "url": "https://www.youtube.com/watch?v=uIoKj00ROk4",
+            "tags": ["legacy73", "info_particle_system"]
+        },
+        "Legacy74": {
+            "title": "Hammer Tutorial #74 Advanced lighting",
+            "description": "This tutorial is outdated, please search: v2 8, or bc11",
+            "url": "https://www.youtube.com/watch?v=2jEuuvSevi0",
+            "tags": ["legacy74"]
+        },
+        "Legacy75": {
+            "title": "Hammer Tutorial #75 CSS opening view and text",
+            "description": "Spectating cameras and into map text",
+            "url": "https://www.youtube.com/watch?v=cHfQZKSZy58",
+            "tags": ["legacy75", "spectate", "cameras", "map info"]
+        },
+        "Legacy76": {
+            "title": "Hammer Tutorial #76 Invisible Players, and Weapons",
+            "description": "Make your level super sp00ky with invis players",
+            "url": "https://www.youtube.com/watch?v=Z_l8dCaXF9Y",
+            "tags": ["legacy76", "invisible"]
+        },
+        "Legacy77": {
+            "title": "Hammer Tutorial #77 Swinging Objects, Phys_Ballsocket",
+            "description": "Do your props hang low, do the wobble to and fro",
+            "url": "https://www.youtube.com/watch?v=C48p-F9-ObE",
+            "tags": ["legacy77", "phys_ballsocket"]
+        },
+        "Legacy78.1": {
+            "title": "Hammer Tutorial #78 Part 1 Multi Floor Elevator",
+            "description": "Make a multi floor elevator",
+            "url": "https://www.youtube.com/watch?v=Gi7Ii6TpZv0",
+            "tags": ["legacy78", "elevator"]
+        },
+        "Legacy78.2": {
+            "title": "Hammer Tutorial #78 Part 1 Multi Floor Elevator",
+            "description": "Make a multi floor elevator",
+            "url": "https://www.youtube.com/watch?v=jg9D5LAllZ0",
+            "tags": ["legacy78", "elevator"]
+        },
+        "Legacy79": {
+            "title": "Hammer Tutorial #79 Real time Mirrors",
+            "description": "What a pretty face you have",
+            "url": "https://www.youtube.com/watch?v=MaONP29ed_k",
+            "tags": ["legacy79", "mirror"]
+        },
+        "Legacy80": {
+            "title": "Hammer Tutorial #80 Blowing up a wall with gibs.",
+            "description": "Boom! Blow that wall up!",
+            "url": "https://www.youtube.com/watch?v=7ouIKw_mcrM",
+            "tags": ["legacy80"]
+        },
+        "Legacy81": {
+            "title": "Hammer Tutorial #81 Mouse Controlled Turret",
+            "description": "Solid hitscan turret",
+            "url": "https://www.youtube.com/watch?v=3CIWqRkLQ3g",
+            "tags": ["legacy81"]
+        },
+        "Legacy82": {
+            "title": "Hammer Tutorial #82 Random Teleport",
+            "description": "Teleport to a random spot each time you use it",
+            "url": "https://www.youtube.com/watch?v=2spdVQ4K7SE",
+            "tags": ["legacy82", "random", "trigger_teleport", "logc_case"]
+        },
+        "Legacy83": {
+            "title": "Hammer Tutorial #83 Random Code Key Pad",
+            "description": "A key code that changes every round",
+            "url": "https://www.youtube.com/watch?v=mAeBdw-oay8",
+            "tags": ["legacy83", "keypad", "lock", "random"]
+        },
+        "Legacy84": {
+            "title": "Hammer Tutorial #84 Team Based Buttons",
+            "description": "Only let 1 team use a button",
+            "url": "https://www.youtube.com/watch?v=PhTmswg5xUA",
+            "tags": ["legacy84", "filter_activator_team", "func_button", "testactivator"]
+        },
+        "Legacy85": {
+            "title": "Hammer Tutorial #85 Parent Attachment Points, Panels from Portal 2",
+            "description": "Make all your panels come to life",
+            "url": "https://www.youtube.com/watch?v=Q5na8Llhk8k",
+            "tags": ["legacy85", "panels", "parent", "attachment"]
+        },
+        "Legacy86": {
+            "title": "Hammer Tutorial #86 Instances (Portal 2, L4D2, Alien Swarm)",
+            "description": "func_instance they are like prefabs on crack",
+            "url": "https://www.youtube.com/watch?v=TdqGUCokjVg",
+            "tags": ["legacy86", "func_instance"]
+        },
+        "Legacy87": {
+            "title": "Hammer Tutorial #87 Portal 2: Buttons, and indicator lights",
+            "description": "Portal 2 buttons and lights",
+            "url": "https://www.youtube.com/watch?v=UJVhe0zzH0Q",
+            "tags": ["legacy87", "env_texture_toggle"]
+        },
+        "Legacy88": {
+            "title": "Hammer Tutorial #88 Portal 2: Info Signs",
+            "description": "Making your own portal 2 info sign",
+            "url": "https://www.youtube.com/watch?v=6sRfNwnUL6o",
+            "tags": ["legacy88", "lightboard"]
+        },
+        "Legacy89": {
+            "title": "Hammer Tutorial #89 Portal 2: World Portals",
+            "description": "Break brains with crazy level design",
+            "url": "https://www.youtube.com/watch?v=9zMITi-l10c",
+            "tags": ["legacy89", "linked_portal_door"]
+        },
+        "Legacy90": {
+            "title": "Hammer Tutorial #90 Portal 2: Arrival/Departure elevators, Elevator movies, and Linking maps",
+            "description": "Easy tube elevators",
+            "url": "https://www.youtube.com/watch?v=c1nabib1MBc",
+            "tags": ["legacy90", "portal elevator"]
+        },
+        "Legacy91.1": {
+            "title": "Hammer Tutorial #91 Part 1 Creating a Soundscape, and looping a WAV",
+            "description": "This tutorial is outdated, please search: v2 22",
+            "url": "https://www.youtube.com/watch?v=ZndfpzpQfvk",
+            "tags": ["legacy91"]
+        },
+        "Legacy91.2": {
+            "title": "Hammer Tutorial #91 Part 2 Creating a Soundscape, and looping a WAV",
+            "description": "This tutorial is outdated, please search: v2 22",
+            "url": "https://www.youtube.com/watch?v=CZyvGaXp0M8",
+            "tags": ["legacy91"]
+        },
+        "Legacy92": {
+            "title": "Hammer Tutorial #92 Placing Portals in Hammer",
+            "description": "Placing dead ass game in Hammer",
+            "url": "https://www.youtube.com/watch?v=UykU8m8aulU",
+            "tags": ["legacy92", "prop_portal"]
+        },
+        "Legacy93": {
+            "title": "Hammer Tutorial #93 Fog",
+            "description": "This tutorial is outdated, please search: v2 16",
+            "url": "https://www.youtube.com/watch?v=H1U7ITaqC6M",
+            "tags": ["legacy93"]
+        },
+        "Legacy94": {
+            "title": "Hammer Tutorial #94 Info_Lighting/Lighting Origin",
+            "description": "Changing the lighting origins of props",
+            "url": "https://www.youtube.com/watch?v=aV4rBlRJ5Bo",
+            "tags": ["legacy94", "info_lighting"]
+        },
+        "Legacy95": {
+            "title": "Hammer Tutorial #95 Dynamic Lighting, env_projectedtexture",
+            "description": "This tutorial is outdated, please search: v2 8",
+            "url": "https://www.youtube.com/watch?v=tTq-hRyxCZU",
+            "tags": ["legacy95"]
+        },
+        "Legacy96": {
+            "title": "Hammer Tutorial #96 Rivers",
+            "description": "Running rivers!",
+            "url": "https://www.youtube.com/watch?v=foViqM4xdfE",
+            "tags": ["legacy96", "river"]
+        },
+        "Legacy97": {
+            "title": "Hammer Tutorial #97 In-Game messaging" ,
+            "description": "Talking to the player from the map",
+            "url": "https://www.youtube.com/watch?v=RzsQ4F-lJ98",
+            "tags": ["legacy97", "game_text", "env_hudhint", "point_servercommand"]
+        },
+        "Legacy98": {
+            "title": "Hammer Tutorial #98 Breaking a Light",
+            "description": "Destroying lighting looks nice",
+            "url": "https://www.youtube.com/watch?v=7bqs-4_tEDM",
+            "tags": ["legacy98", "destruction", "light"]
+        },
+        "Legacy99": {
+            "title": "Hammer Tutorial #99 Texture Manipulation",
+            "description": "This tutorial is outdated, please search: v2 23, or bc9",
+            "url": "https://www.youtube.com/watch?v=Sd3fVqaWTY0",
+            "tags": ["legacy99"]
+        },
+        "Legacy100": {
+            "title": "Hammer Tutorial #100 Creating and Editing Particle Systems",
+            "description": "Create your own particles",
+            "url": "https://www.youtube.com/watch?v=70GhO6z5aKM",
+            "tags": ["legacy100", "info_particle_system", "particles", "particle"]
+        }
+        }
     }
 }
