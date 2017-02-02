@@ -4,13 +4,13 @@
             "episode1": {
                 "title": "Change This",
                 "description": "Change This",
-                "url": "https://Change-This-Make-sure-there-is-a-https://-before-or-it-wont-work",
+                "url": "https://Change-This-Make-sure-there-is-a-http-or-https.com",
                 "tags": ["Change", "all", "of", "these"]
             },
             "episode2": {
                 "title": "Change This",
                 "description": "Change This",
-                "url": "https://Change-This-Make-sure-there-is-a-https://-before-or-it-wont-work",
+                "url": "https://Change-This-Make-sure-there-is-a-http-or-https.com",
                 "tags": ["Change", "all", "of", "these"]
             }
         }
