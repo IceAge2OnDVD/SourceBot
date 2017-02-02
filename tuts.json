@@ -1,7 +1,18 @@
 {
-  "tutorial":{
-    "1":"www.youtube.com",
-    "2":"stuff",
-    "3":"and more stuff"
-  }
+    "videos": {
+        "tutorials": {
+            "episode1": {
+                "title": "Change This",
+                "description": "Change This",
+                "url": "Change This Make sure there is a https:// before or it wont work",
+                "tags": ["Change", "all", "of", "these"]
+            },
+            "episode2": {
+                "title": "Change This",
+                "description": "Change This",
+                "url": "Change This Make sure there is a https:// before or it wont work",
+                "tags": ["Change", "all", "of", "these"]
+            }
+        }
+    }
 }
